@@ -10,4 +10,4 @@ git remote remove
 
 git checkout -b branch-name
 
-git branch aa
+git branch a
